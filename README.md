@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm DAVID! 👋
 ### Software Engineering Student @ AAST | MEAN Stack Specialist
 
 I am a passionate **Software Engineering** student at the Arab Academy for Science, Technology & Maritime Transport (AAST), specializing in building scalable, full-stack web applications using the **MEAN Stack**.
