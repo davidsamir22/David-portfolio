@@ -36,7 +36,7 @@ const HeroSection = () => {
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start pt-2">
               <a
-                href="/DAVID-SAMIR-CV.pdf"
+                href="/DAVID-CV.pdf"
                 download
                 className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-6 py-3 rounded-lg font-display font-medium transition-all duration-300 hover:shadow-[0_0_25px_-5px_hsl(var(--primary)/0.5)] hover:-translate-y-0.5"
               >
